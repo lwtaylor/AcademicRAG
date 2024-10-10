@@ -1,0 +1,123 @@
+﻿General Linguistics Major Description:
+The general linguistics major provides students with a comprehensive study of the field of linguistics. Students take core courses focusing on language data from a variety of languages, which teach analytical and writing skills. Students acquire knowledge of the theoretical issues in language processing, language acquisition, and language in society. These courses develop writing, research and critical thinking skills.
+
+
+Major Requirements:
+Completion of 12 upper division courses with C- or better (exception: up to four units of LIGN 199 taken for pass/no pass may count towards the major. In order to satisfy the upper-division course requirements, students who enroll in LIGN 199 for just two units are advised to enroll for another two units in a subsequent quarter.)
+At least 6 of the 12 major courses must be taken in residence at UC San Diego.
+
+
+Language Proficiency Requirement: 
+All Linguistics Majors must demonstrate proficiency in one foreign language by one of the following:
+1. pass a reading proficiency exam and oral interview administered by the Linguistics department in French, German, Italian, Spanish, Arabic, Farsi, Tagalog, Portuguese, Vietnamese, or American Sign Language. It may be possible to take a proficiency exam in a language other than these.
+2. earn a C- or higher in a course given at UC San Diego representing the fourth quarter of instruction in any foreign language.
+3. score 4 or higher on the Advanced Placement (AP) exam in a foreign language.
+Students should consult with the Linguistics Department's Undergraduate Advisors (linginfo-g@ucsd.edu) about this requirement.
+Students with native language competence in a language other than English may petition to have English count as satisfying the proficiency requirement.
+
+
+Linguistics Core Courses:
+6 core linguistics courses:
+LIGN 101: Introduction to the Study of Language
+LIGN 110: Phonetics
+LIGN 111: Phonology
+LIGN 120: Morphology
+LIGN 121: Syntax
+LIGN 130: Semantics
+Students are advised to take these classes as early as possible, especially LIGN101, which is a prerequisite for most linguistics classes. LIGN110 is required for LIGN111, and LIGN111 and LIGN121 are recommended for LIGN120.
+View a complete list of Linguistics courses. 
+
+
+Electives:
+Five linguistics electives:
+any five upper-division LIGN courses.
+One additional linguistics elective or upper-division course in another department pertaining to the study of language. Courses currently approved to satisfy this requirement include:
+* electives for the cognition and language major (except PSYC 105)
+* electives for the language and society major (Note: some of these courses may have prerequisites)
+* an upper-division heritage language (LIHL) course offered in the Heritage Language Program).
+
+
+
+
+Course Catalog
+
+
+LIGN 101 Introduction to the Study of Language
+Language is what makes us human, but how does it work? This course focuses on speech sounds and sound patterns, how words are formed, organized into sentences, and understood, how language changes, and how it is learned.
+Required for all majors. Serves as prerequisite for most Linguistics General courses. Satisfies psychological foundation requirement for HDP majors. Counts towards Sixth College breadth requirements.
+
+
+LIGN 110 Phonetics
+The study of sounds that are used in human languages. How speech sounds are physically produced; acoustics of speech; speech perception; practical training in phonetic transcription and in interpreting visual representations of the acoustic signal. The class covers both English and its dialects and languages other than English.
+Prerequisite: LIGN 101, concurrent enrollment in LIGN 101, or consent of instructor.
+
+
+LIGN 111 Phonology I
+Why does one language sound different from another? This course analyzes how languages organize sounds into different patterns, how those sounds interact, and how they fit into larger units, such as syllables. Focus on a wide variety of languages and problem-solving.
+Prerequisite: LIGN 110. Required for all majors.
+
+
+LIGN 120 Morphology
+How do some languages express with one word complex meanings that English needs several words to express? Discovery of underlying principles of word formation through problem solving and analysis of data from a wide variety of languages.
+Prerequisite: LIGN 101 or consent of instructor. Required for majors.
+
+
+LIGN 121 Syntax I
+What universal principles determine how words combine into phrases and sentences? Introduction to research methods and results. Emphasis on how argumentation in problem-solving can be used in the development of theories of language.
+Prerequisite: LIGN 101. Required for majors.
+
+
+LIGN 130 Semantics
+Introduction to the formal study of meaning. The meanings of words and phrases have an intricate internal structure that is both logical and intuitive. How, precisely, do words mean what they do in isolation and in context?
+Prerequisite: LIGN 101. Required for majors.
+
+
+LIGN 7 Sign Languages and Their Cultures
+Deaf history since the eighteenth century. The structure of American Sign Language and comparison with oral languages. ASL poetry and narrative and Deaf people’s system of cultural knowledge. Basic questions concerning the nature of language and its relation to culture. 
+Prerequisites: none. Satisfies DEI requirement.
+
+
+LIGN 8 Languages and Cultures in America
+Language in American culture and society. Standard and nonstandard English in school, media, pop culture, politics; bilingualism and education; cultural perception of language issues over time; languages and cultures in the “melting pot,” including Native American, Hispanic, African American, Deaf. Prerequisites: none. Satisfies DEI requirement.
+
+
+LIGN 149GS The Historical Roots of American Sign Language 
+Emphasizing linguistic evidence and historical documents, this course examines the roots of ASL with particular focus on contributions from Langue des Signes Francaise, Native American Sign Language, Black ASL, and Hawaiian Sign Language. Topics include illustrated and descriptive records documenting the linguistics of each language, and similarities and differences among the varieties. Program or materials fees may apply. 
+Prerequisites: student must apply and be accepted to the global seminars program. Satisfies DEI requirement.
+
+
+LIGN 175 Sociolinguistics
+The study of language in its social context, with emphasis on the different types of linguistic variation and the principles underlying them. Dialects, registers, gender-based linguistic differences, multilingualism, pidginization and creolization, factors influencing linguistic choice, formal models of variation; emphasis is given both to socially determined differences within the United States and US ethnic groups and to cross-cultural differences in language use and variation. 
+Prerequisites: LIGN 101 or consent of instructor. Satisfies DEI requirement.
+
+
+LIGN 178 Spanish Sociolinguistics
+This course examines how social variables, such as age, education, gender, and social status may be linguistically expressed in different varieties of Spanish. Attitudes toward different linguistic variants and how these impact language policy will be studied. Special emphasis will be given to the varieties of Spanish spoken in the United States. Prerequisites: LIGN 101 or consent of instructor. Satisfies DEI requirement.
+
+
+LIGN 154 Language and Consciousness
+Origins of linguistic analysis (phonetics, phonology, morphology, thematic and grammatical relations, lexical semantics) in ancient India, history of naturalism vs. conventionalism, sound symbolism, relationship of language with myth and ritual, linguistic relativism, physical effects of language, metaphysical approaches to language.
+Prerequisite: LIGN 101.
+
+
+LIGN 115
+Phonology II
+
+
+How are phonological systems organized, and what generalizations can be made about the phonological patterns found across languages? Exploration of advanced concepts in phonological theory through the analysis of cross-linguistic phenomena. Emphasis on empirical justification and argumentation.
+Prerequisite: LIGN 111.
+
+
+LIGN 145 Pidgins and Creoles
+Pidgin and creole languages provide important insights into the processes arising from natural language contact. Origins of pidgins and creoles; detailed description of salient aspects of their structure; relevance of pidgins and creoles for theories of syntax, morphology, language acquisition.
+Prerequisite: LIGN 101. Elective for majors. May be used towards Sixth College breadth requirements. May be used towards the language and ethnicity requirement in the Ethnic Studies major (see Ethnic Studies Dept. for details).
+
+
+LIGN 125 Syntax II
+How are syntactic systems organized, and what generalizations can be made about the syntactic patterns found across languages? Exploration of advanced concepts in syntactic theory through the analysis of cross-linguistic phenomena. Emphasis on empirical justification and argumentation.
+Prerequisite: LIGN 121. Elective for majors.
+
+
+LIGN 165 Computational Linguistics
+An introduction to the fundamental concepts of computational linguistics, in which we study natural language syntax and semantics from an interpretation perspective, describe methods for programming computer systems to perform such interpretation, and survey applications of computational linguistics technology.
+Recommended for majors interested in computational applications of linguistics.

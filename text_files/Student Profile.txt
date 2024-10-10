@@ -1,0 +1,8 @@
+﻿Major: Linguistics
+College: Seventh
+Standing: Freshman
+
+
+
+
+Subject        Course                Course Title        Units

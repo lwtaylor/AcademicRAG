@@ -1,0 +1,17 @@
+name: alama
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pip=24.0=pyhd8ed1ab_0
+  - pip:
+      - chromadb==0.5.0
+      - langchain-core==0.2.1
+      - langchain-openai==0.1.7
+      - langchain-text-splitters==0.2.0
+      - langchain-community
+      - openai==1.30.3
+      - python-dotenv==1.0.1
+      - requests==2.32.2
+      - streamlit==1.35.0
